@@ -1,14 +1,18 @@
-% Videoclub «Los Pajaritos»
-% Ricardo Pérez
-% Curso 2021/22
+% Booktopia
+% Antonio Jesús Marchena Guerrero
+% Curso 2023/24
 
 # Descripción general del proyecto
 
-Explicar.
+Booktopia se trara de una web en la que los usuarios registrados tendran 
+acceso a la lectura online de libros. Aquellos usuarios que decidan 
+suscribirse a la web tendran la posibiliad de autopublicar sus propias
+obras.
 
 ## Funcionalidad principal de la aplicación
 
-Explicar.
+Permitir a los usuarios acceder y leer libros en línea, y proporcionar a 
+los autores la capacidad de autopublicar sus propias obreas en la plataforma.
 
 ## Objetivos generales
 
@@ -16,11 +20,16 @@ A diferencia de los casos de uso, los objetivos no tienen principio ni fin.
 
 Por ejemplo:
 
-* Objetivo: "gestionar los alquileres y las devoluciones de las películas".
-* Casos de uso: "alquilar una película", "devolver una película".
-
+* Objetivo: Crear un perfil, acceder a la lectura online de libros y 
+autopublicar obras propias.
+* Casos de uso:
+    - Usuario no autenticado: "Realizar búsquedas", "Consultar datos", "Registrarse".  
+    - Usuario autenticado: "Realizar búsquedas", "Consultar datos", "Leer libros", "Valorar libros", "Iniciar sesión"
+    - Usuario autenticado-suscrito:"Realizar búsquedas", "Consultar datos", "Leer libros", "Valorar libros", "autopublicar libros",  "Iniciar sesión
+    - Administrador: "Gestion de usuario", "Añadir/eliminar/modificar la oferta de libros"
+ 
 # Elemento de innovación
 
-Aspecto, función o tecnología novedosa o innovadora no tratada directamente
-en clase y que será necesario investigar para desarrollar adecuadamente el
-Proyecto.
+Laravel
+Docker (opcional)
+Autenticación mediante proveedores de autenticación de terceros - google (opcional)
