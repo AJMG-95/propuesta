@@ -4,7 +4,7 @@
 
 # Descripción general del proyecto
 
-Booktopia se trara de una web en la que los usuarios registrados tendran 
+Booktopia se trata de una web en la que los usuarios registrados tendran 
 acceso a la lectura online de libros. Aquellos usuarios que decidan 
 suscribirse a la web tendran la posibiliad de autopublicar sus propias
 obras.
@@ -12,13 +12,10 @@ obras.
 ## Funcionalidad principal de la aplicación
 
 Permitir a los usuarios acceder y leer libros en línea, y proporcionar a 
-los autores la capacidad de autopublicar sus propias obreas en la plataforma.
+los autores la capacidad de autopublicar sus propias obras en la plataforma.
 
 ## Objetivos generales
 
-A diferencia de los casos de uso, los objetivos no tienen principio ni fin.
-
-Por ejemplo:
 
 * Objetivo: Crear un perfil, acceder a la lectura online de libros y 
 autopublicar obras propias.

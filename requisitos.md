@@ -325,6 +325,276 @@
 | **Entrega**     | v1             |
 
 
+| **R37**     | **Crear usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Creación de usuarios con id, nombre, email y contraseña. Además distinción entre tipos de usuarios.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R38**     | **Eliminar usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán eliminar su propia cuenta de usuario.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R39**     | **Modificar usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán modificar algunos datos de su cuenta de usuario.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R40**     | **Insertar libro**         |
+| --------------: | :------------------- |
+| **Descripción** | El administrador podrá introducir más libros en la web.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R41**     | **Eliminar libro**         |
+| --------------: | :------------------- |
+| **Descripción** | El administrador podrá eliminar libros de la web.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R42**     | **Modificar libro**         |
+| --------------: | :------------------- |
+| **Descripción** |  El administrador podrá modificar la información referente a cada libro.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R43**     | **Iniciar sesión**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán incluyendo el administrador podrán iniciar sesión en la web.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R44**     | **Cerrar sesión**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán incluyendo el administrador podrán cerrar sesión en la web.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R45**     | **Compra de libros**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán realizar la compra de libros para su lectura online             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R46**     | **Autopublicación de libros**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios suscritos podrán subir sus propios libros a la web             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R47**     | **Logo**         |
+| --------------: | :------------------- |
+| **Descripción** | Elaborar el diseño de un logo para la web             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R48**     | **Lectura de libros**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios tendrán acceso a libros para su lectura online.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R49**     | **Header**         |
+| --------------: | :------------------- |
+| **Descripción** | La web dispondrá de un header donde se podrá ver una barra de navegación              |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R50**     | **Registro por autenticación externa**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán registrarse en la web mediante el uso de su cuenta de google             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R51**     | **Buscador**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán realizar búsquedas de títulos y autores concretos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R52**     | **Contacto**         |
+| --------------: | :------------------- |
+| **Descripción** | Se habilitará un formulario de contacto para que los usuario puedan exponer dudas, quejas y/o reportar fallos al administrador             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R53**     | **Footer**         |
+| --------------: | :------------------- |
+| **Descripción** | Pié de página con la información legal y diferentes datos sobre la web.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R54**     | **Base de datos**         |
+| --------------: | :------------------- |
+| **Descripción** | Crear una base de datos donde se almacenará la información de los usuarios y libros de la web.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R55**     | **Uso Docker**         |
+| --------------: | :------------------- |
+| **Descripción** | Para facilitar la portabilidad, y mejorar la eficiencia y la seguridad de la web             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v1             |
+
+
+| **R56**     | **Valoraciones**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán realizar valoraciones sobre los libros que han leído.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R57**     | **Biblioteca**         |
+| --------------: | :------------------- |
+| **Descripción** | Lugar de la web donde los usuarios tendrán acceso a todos los libros comprado/autopublicados             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R58**     | **Comentarios **         |
+| --------------: | :------------------- |
+| **Descripción** | La web dispondrá de una sección de comentarios, donde los usuarios podrán expresar su opinión acerca de los libros.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R59**     | **Bloqueo de usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | El administrador podrá bloquear a los usuarios cuto comportamiento en la web se pueda considerar inadecuado             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R60**     | **Eliminar comentarios**         |
+| --------------: | :------------------- |
+| **Descripción** | El administrador podrá eliminar comentarios que considere inadecuados.              |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R61**     | **API**         |
+| --------------: | :------------------- |
+| **Descripción** | Implementación de API relacionada con el mundo de la lectura y los libros             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R62**     | **Lista de deseos**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán añadir libros a una lista de deseos para su futura compra.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
+| **R63**     | **Marcado de página**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación recordará la ultima página leída por el usuario              |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R64**     | **Foro de lectura**         |
+| --------------: | :------------------- |
+| **Descripción** | Habrá un foro de lectura donde aparecerá una recomendación mensual de un libro y los usuarios que decidan leerlo podrán acceder y participar en el foro             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R65**     | **Notas**         |
+| --------------: | :------------------- |
+| **Descripción** | El usuario dispondrá de un apartado de post/notas donde podrá guardar citas literarias             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R66**     | **Libros gratuitos**         |
+| --------------: | :------------------- |
+| **Descripción** | Por estar suscrito, los usuarios dispondrán de un apartado de libros gratuitos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
 
 ## Cuadro resumen
 
@@ -366,3 +636,33 @@
 | (**R34**) Varios navegadores | Mínimo | Técnico | Fácil | v1 | 
 | (**R35**) Despliegue en un Host | Mínimo | Técnico | Fácil | v1 | 
 | (**R36**) Despliegue en un servidor local | Mínimo | Técnico | Fácil | v1 | 
+| (**R37**) Crear usuario | Importante | Funcional | Fácil | v1 | 
+| (**R38**) Eliminar usuario | Importante | Funcional | Fácil | v1 | 
+| (**R39**) Modificar usuario | Importante | Funcional | Fácil | v1 | 
+| (**R40**) Insertar libro | Importante | Funcional | Fácil | v1 | 
+| (**R41**) Eliminar libro | Importante | Funcional | Fácil | v1 | 
+| (**R42**) Modificar libro | Importante | Funcional | Fácil | v1 | 
+| (**R43**) Iniciar sesión | Importante | Funcional | Fácil | v1 | 
+| (**R44**) Cerrar sesión | Importante | Funcional | Fácil | v1 | 
+| (**R45**) Compra de libros | Importante | Funcional | Media | v2 | 
+| (**R46**) Autopublicación de libros | Importante | Funcional | Difícil | v3 | 
+| (**R47**) Logo | Importante | Técnico | Fácil | v1 | 
+| (**R48**) Lectura de libros | Importante | Funcional | Difícil | v3 | 
+| (**R49**) Header | Importante | Funcional | Media | v1 | 
+| (**R50**) Registro por autenticación externa | Opcional | Funcional | Difícil | v3 | 
+| (**R51**) Buscador | Importante | Funcional | Media | v2 | 
+| (**R52**) Contacto | Importante | Funcional | Media | v1 | 
+| (**R53**) Footer | Importante | Funcional | Fácil | v1 | 
+| (**R54**) Base de datos | Importante | Técnico | Media | v1 | 
+| (**R55**) Uso Docker | Opcional | Técnico | Difícil | v1 | 
+| (**R56**) Valoraciones | Importante | Funcional | Fácil | v1 | 
+| (**R57**) Biblioteca | Importante | Funcional | Fácil | v1 | 
+| (**R58**) Comentarios  | Importante | Funcional | Media | v2 | 
+| (**R59**) Bloqueo de usuarios | Opcional | Funcional | Media | v2 | 
+| (**R60**) Eliminar comentarios | Opcional | Funcional | Media | v2 | 
+| (**R61**) API | Opcional | Técnico | Difícil | v3 | 
+| (**R62**) Lista de deseos | Importante | Funcional | Media | v3 | 
+| (**R63**) Marcado de página | Opcional | Funcional | Difícil | v3 | 
+| (**R64**) Foro de lectura | Importante | Funcional | Media | v2 | 
+| (**R65**) Notas | Opcional | Funcional | Media | v2 | 
+| (**R66**) Libros gratuitos | Importante | Funcional | Media | v2 | 
